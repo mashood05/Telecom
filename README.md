@@ -39,6 +39,8 @@ NOTE: Install docker first `https://docs.docker.com/docker-for-windows/install/`
 Step 3: Important Endpoints
 ==================================================
 
+`mailDev web-interface is running at this endpoint you can check all mail related to birthday here `http://localhost:1080``
+
 `1`. `Create customer: http://localhost:8080/v1/customer`
 
 ````
