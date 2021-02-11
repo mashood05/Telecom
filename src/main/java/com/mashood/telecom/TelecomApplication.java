@@ -36,8 +36,8 @@ public class TelecomApplication {
         javaMailSender.setPort(port);
         javaMailSender.setProtocol("smtp");
         javaMailSender.setHost(hostName);
-        javaMailSender.setUsername("telenor");
-        javaMailSender.setPassword("telenor");
+        javaMailSender.setUsername("hello");
+        javaMailSender.setPassword("hello");
         return javaMailSender;
     }
 
